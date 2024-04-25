@@ -1,5 +1,6 @@
-https://hedgedoc.cri.epita.fr/s/st3O7RLHk
-https://tinyurl.com/exam-reseaux
+- https://hedgedoc.cri.epita.fr/s/st3O7RLHk
+- https://tinyurl.com/exam-reseaux
+- https://www.malekal.com/utiliser-masquerade-iptables-nat/
 # VLAN
 
 ## Explication
